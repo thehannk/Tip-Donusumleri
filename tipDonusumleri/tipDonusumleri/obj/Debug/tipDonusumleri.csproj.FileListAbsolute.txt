@@ -1,0 +1,8 @@
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\bin\Debug\tipDonusumleri.exe.config
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\bin\Debug\tipDonusumleri.exe
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\bin\Debug\tipDonusumleri.pdb
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\obj\Debug\tipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\obj\Debug\tipDonusumleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\obj\Debug\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\obj\Debug\tipDonusumleri.exe
+C:\Users\hank\Desktop\framework\tipDonusumleri\tipDonusumleri\obj\Debug\tipDonusumleri.pdb
